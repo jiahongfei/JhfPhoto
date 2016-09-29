@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">JhfPhoto</string>
+
+    <!-- upload photo start-->
+    <string name="photo_preview">预览</string>
+    <string name="title_selected_upload_photo">选择上传照片</string>
+    <string name="title_selected_upload_right_done">完成</string>
+    <string name="title_lipeicailiao">理赔材料</string>
+    <string name="photo_selected_max">只能选择%s图片</string>
+
+    <string name="img_id_card_1">1.身份证反正面</string>
+    <string name="img_bank_card_2">2.理赔款转账银行卡</string>
+    <string name="img_manual_3">3.门/急诊病例/手册</string>
+    <string name="img_incoice_4">4.医疗费用发票原件及费用明细清单</string>
+    <string name="img_statement_5">5.意外事故证明</string>
+    <string name="selected_from_camera">拍照</string>
+    <string name="selected_from_gallery">从手机相册选择</string>
+    <string name="add_upload_image">添加图片</string>
+    <string name="crop_save_text">"保存"</string>
+    <string name="crop_discard_text">"舍弃"</string>
+    <string name="running_face_detection">"请稍候..."</string>
+    <string name="multiface_crop_help">"轻点一张脸开始裁剪。"</string>
+    <string name="saving_image">"正在保存照片..."</string>
+    <string name="image_uploading_wait_tips">图片上传中，请稍后...</string>
+    <string name="image_uploading_wait">上传中</string>
+    <string name="fails">失败</string>
+    <string name="again_upload_photo">点击重试</string>
+    <string name="upload_supplement_photo">请补充某某材料</string>
+    <!--upload photo end-->
+</resources>

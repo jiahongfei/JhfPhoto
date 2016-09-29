@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:background="@color/photo_title_bg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_45"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:text="1/6"
+            android:textSize="@dimen/dimen_18"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_photo_index"/>
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:paddingLeft="@dimen/dimen_10"
+            android:paddingRight="@dimen/dimen_20"
+            android:id="@+id/iv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@mipmap/tupian_icon_fanhui" />
+
+        <ImageView
+            android:paddingLeft="@dimen/dimen_10"
+            android:paddingRight="@dimen/dimen_20"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/iv_selected"
+            android:src="@drawable/big_img_selected_photo"/>
+        <ImageView
+            android:visibility="gone"
+            android:paddingLeft="@dimen/dimen_10"
+            android:paddingRight="@dimen/dimen_20"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iv_delete"
+            android:src="@mipmap/tupian_shanchu"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_bottom_widget"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white">
+
+        <TextView
+            android:id="@+id/tv_preview_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/dimen_10"
+            android:paddingRight="@dimen/dimen_20"
+            android:text="@string/photo_preview"
+            android:textColor="@color/photo_preview_xml"
+            android:textSize="@dimen/font_size_14"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/ll_photo_done"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingRight="@dimen/dimen_10">
+
+            <TextView
+                android:id="@+id/tv_selected_count"
+                android:layout_width="@dimen/dimen_18"
+                android:layout_height="@dimen/dimen_18"
+                android:background="@drawable/round_rec_40cbac_full_bg"
+                android:gravity="center"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/font_size_12" />
+
+            <TextView
+                android:id="@+id/tv_done"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dimen_6"
+                android:text="@string/title_selected_upload_right_done"
+                android:textColor="@color/photo_done_xml"
+                android:textSize="@dimen/font_size_14" />
+        </LinearLayout>
+
+        <View
+            style="@style/span_line_style"
+            android:layout_alignParentTop="true"></View>
+    </RelativeLayout>
+
+    <com.jhf.photo.view.PhotoViewPager
+        android:id="@+id/photoViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rl_bottom_widget"
+        android:layout_below="@+id/rl_title"></com.jhf.photo.view.PhotoViewPager>
+
+</RelativeLayout>

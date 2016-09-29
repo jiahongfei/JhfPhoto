@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="badge_text_size">10sp</dimen>
+    <dimen name="badge_margin_left">11dip</dimen>
+
+    <dimen name="badge_radio_text_size">10sp</dimen>
+    <dimen name="badge_radio_text_padding_bottom">12dip</dimen>
+    <dimen name="badge_radio_bar_height">51dip</dimen>
+    <dimen name="round_header_size">40dp</dimen>
+    <dimen name="my_info_header_size">53dp</dimen>
+    <dimen name="mine_info_item_icon_height_width">40dp</dimen>
+    <dimen name="fab_margin_bottom">30dp</dimen>
+    <dimen name="fab_margin_right">30dp</dimen>
+
+    <dimen name="default_margin">10dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_7">7dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_9">9dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_11">11dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_17">17dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_19">19dp</dimen>
+    <dimen name="dimen_20">20dip</dimen>
+    <dimen name="dimen_21">21dip</dimen>
+    <dimen name="dimen_24">24dip</dimen>
+    <dimen name="dimen_25">25dip</dimen>
+    <dimen name="dimen_27">27dip</dimen>
+    <dimen name="dimen_30">30dip</dimen>
+    <dimen name="dimen_31">31dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_34">34dp</dimen>
+    <dimen name="dimen_35">35dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_42">42dp</dimen>
+    <dimen name="dimen_43">43dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_52">52dp</dimen>
+    <dimen name="dimen_63">63dp</dimen>
+    <dimen name="dimen_78">78dp</dimen>
+    <dimen name="dimen_83">83dp</dimen>
+    <dimen name="dimen_93">93dp</dimen>
+    <dimen name="dimen_100">100dp</dimen>
+    <dimen name="compare_detail_item_height">42dp</dimen>
+    <dimen name="list_item_space_height">14dp</dimen>
+    <dimen name="detail_list_item_space_height">10dp</dimen>
+
+    <dimen name="font_size_10">10sp</dimen>
+    <dimen name="font_size_11">11sp</dimen>
+    <dimen name="font_size_12">12sp</dimen>
+    <dimen name="font_size_13">13sp</dimen>
+    <dimen name="font_size_14">14sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+
+    <dimen name="compare_detail_right_item_width">90dp</dimen>
+    <dimen name="span_line_height">1px</dimen>
+    <dimen name="compare_detail_left_item_width">90dip</dimen>
+    <dimen name="product_tab_padding_left_right">6dip</dimen>
+
+    <dimen name="summary_baofeicesuan_ll_height">87dip</dimen>
+    <dimen name="summary_baofeicesuan_text_margin_top">10dip</dimen>
+
+    <dimen name="summary_hot_event_height">30dip</dimen>
+    <dimen name="summary_hot_product_title_height">43dip</dimen>
+
+
+    <dimen name="summary_hot_product_height">160dp</dimen>
+    <dimen name="summary_hot_product_item_height">80dp</dimen>
+
+    <dimen name="tab_height">36dp</dimen>
+    <dimen name="tab_indicator_height">2px</dimen>
+
+    <dimen name="card_view_title_height">43dip</dimen>
+    <dimen name="card_view_bottom_height">43dip</dimen>
+
+    <dimen name="jianxingtianxai_height">114dp</dimen>
+    <dimen name="jiankangpingce_height">108dp</dimen>
+    <dimen name="baofeicesuan_height">120dp</dimen>
+    <dimen name="wodebaodan_height">60dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+    <dimen name="compare_detail_right_title_height">60dp</dimen>
+
+    <dimen name="advise_case_title_height">53dip</dimen>
+
+    <dimen name="order_detail_product_title_height">66dp</dimen>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#ff6600</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent">#f36163</color>
+
+    <color name="bottom_tab_bg">#ffffff</color>
+    <color name="line">#C9C9C9</color>
+    <color name="span_line_color">#d9d9d9</color>
+
+    <color name="tab_bar_text_default_color">#999999</color>
+    <color name="tab_bar_text_hover_color">@color/primary</color>
+    <color name="white">#ffffff</color>
+    <color name="compare_detail_bg">#F5F5F9</color>
+    <color name="color_span_line">#DCDCDC</color>
+    <color name="compare_detail_label_check_detail_color">#989898</color>
+    <color name="compare_detail_right_first_font_color">#E06518</color>
+    <color name="compare_detail_right_span_item_bg_color">#F5FCFA</color>
+
+    <color name="product_list_tab_bg">#ff6600</color>
+    <color name="color_yellow">#d29600</color>
+
+    <color name="product_limit_text_color">#999999</color>
+    <color name="product_price_text_color">#ff6600</color>
+    <color name="product_name_text_color">#333333</color>
+    <color name="payment_title_color">#333333</color>
+
+
+    <color name="jianxingtianxia_text_color">#ff6600</color>
+
+    <color name="mpc_start_color">#ff6600</color>
+    <color name="mpc_end_color">#fff1e5</color>
+
+    <color name="order_item_color">#666666</color>
+    <color name="order_detail_item_color">#666666</color>
+    <color name="payment_item_color">#666666</color>
+
+    <color name="edit_hint_text_color">#cccccc</color>
+
+    <color name="prompt_text_color">#999999</color>
+
+    <color name="login_software_license">#167ef9</color>
+
+    <color name="green_color">#0ec7a6</color>
+
+    <color name="product_total_money_yellow">#f5be01</color>
+
+    <color name="con_order_top_widget">#fff8f2</color>
+
+    <color name="photo_done">#40cbac</color>
+    <color name="photo_done_enable">@color/photo_done</color>
+    <color name="photo_done_disable">#4D40cbac</color>
+
+    <color name="photo_preview_enable">@color/product_name_text_color</color>
+    <color name="photo_preview_disable">#4D333333</color>
+
+    <color name="photo_title_bg">#BF000000</color>
+
+    <!-- crop image start -->
+    <color name="photo_crop_bt_bg">#424242</color>
+    <color name="photo_crop_bt_text">#ffffff</color>
+    <!-- crop image end -->
+
+    <color name="claimapply_progress_current">#555555</color>
+    <color name="claimapply_progress_not_completed">#666666</color>
+
+    <color name="tv_phone_number">#55bae6</color>
+
+    <color name="highlight_color">#ff0000</color>
+</resources>
