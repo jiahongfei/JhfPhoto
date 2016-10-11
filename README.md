@@ -12,7 +12,7 @@ https://github.com/chrisbanes/PhotoView
 4.大图展示照片（大图模式也可以选择）
 
 #效果图
-![](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154207.png)<br>
-![](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154353.png)<br>
-![](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154425.png)
+![image](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154207.png)<br>
+![image](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154353.png)<br>
+![image](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154425.png)
 
