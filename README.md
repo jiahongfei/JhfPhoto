@@ -13,6 +13,6 @@ https://github.com/chrisbanes/PhotoView
 
 #效果图
 ![image](https://github.com/jiahongfei/JhfPhoto/raw/master/raw/Screenshot_20161011-154207.png)<br>
-![image](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154353.png)<br>
-![image](https://github.com/jiahongfei/JhfPhoto/tree/master/raw/Screenshot_20161011-154425.png)
+![image](https://github.com/jiahongfei/JhfPhoto/raw/master/raw/Screenshot_20161011-154353.png)<br>
+![image](https://github.com/jiahongfei/JhfPhoto/raw/master/raw/Screenshot_20161011-154425.png)
 
